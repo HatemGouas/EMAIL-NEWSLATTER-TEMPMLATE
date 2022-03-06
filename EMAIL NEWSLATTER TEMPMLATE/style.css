@@ -1,0 +1,541 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Comfortaa:wght@700&family=Inter:wght@500&family=Playfair+Display+SC:wght@700&family=Roboto+Mono&display=swap');
+
+body{
+         background-color: #e0e0e0;
+}
+.contaner{
+          width: 100%;
+         background-color: #e0e0e0;
+          max-width: 650px;
+
+}
+.header{
+          background-color: white;
+        border-top-left-radius:30px ;
+        border-top-right-radius:30px ;
+        border-bottom-left-radius:30px ;
+        border-bottom-right-radius:30px ;
+        
+
+}
+.padd{
+          padding: 0.3cm 0.8cm 0.3cm 0.8cm;
+}
+.tit{
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+         
+           
+}
+.small{
+       font-size: 0.4cm;
+          color: rgba(255, 255, 255, 0.856);
+          font-family: sans-serif;
+          
+
+}
+.flex{
+          
+          width: 4cm;
+          display: flex;
+          justify-content: space-between;
+}
+#logo{
+          width: 20px;
+}
+a{
+          text-decoration: none;
+}
+
+.padd1{
+          padding: 0.3cm 0.8cm 0.3cm 0.8cm;
+          
+          
+}
+
+.tit1{
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+         
+          
+         
+           
+}
+.space{
+          margin-top: 0.5cm;
+          margin-bottom: 0.5cm;
+          margin-right:0.5cm ;
+          
+          width: 6.2cm;
+}
+.litspace{
+          display: flex;
+          flex-direction: column;
+          justify-content: space-around;
+          margin-top:0.5cm ;
+          margin-bottom:0.5cm ;
+          margin-left:0.5cm ;
+          
+          height: 45px;
+         width: 7cm;
+}
+.move{
+   align-self: flex-end;
+
+}
+.flexedit{
+display: flex;        
+justify-content: space-between;
+
+font-family: 'Playfair Display SC', serif;
+font-size: 0.7cm;
+font-weight: 700;
+cursor: pointer;
+
+
+}
+.flexedit1{
+          display: flex;
+          width: 4cm;
+          justify-content: space-between;
+      
+          align-self: flex-end;
+          color:#757575;
+          align-items: center; 
+          font-family: sans-serif;
+          font-size: 00.35cm;
+}
+
+
+.tabi{
+   width: 100%;
+   display: flex;
+   font-family: serif;
+   color: white;
+   font-size: 0.38cm;
+   font-weight: 500;
+ justify-content: space-between;
+  
+}
+.p{
+   flex-shrink: 0;
+   margin-top:0.2cm ;
+   margin-bottom:0.2cm ;
+}
+.sp{
+  flex-shrink: 0;
+   margin-left: 0.1cm;
+   width: 2.4cm;
+   margin-top:0.2cm ;
+   margin-bottom:0.2cm ;
+}
+.audd{
+   display: flex;
+   align-items: center;
+   background-color: #424242;
+   border-radius:20px;
+   width: 100%;
+}
+.auddimg{
+   width: 53%;
+}
+.arbouche{
+   padding: 0cm 0.5cm 0cm 0.5cm;
+   width: 47%;
+}
+.tito{
+   text-align: start; font-family: serif; font-size: 0.7cm ; font-weight: 500; color: rgba(255, 255, 255, 0.87); 
+}
+ 
+#imgg{border-top-left-radius: 20px; border-bottom-left-radius: 20px;}
+#imggg{border-bottom-right-radius: 20px; border-top-right-radius: 20px;}
+
+.mrati{
+   display: flex;
+   background-color: white;
+   padding: 1.2cm 0cm 1.2cm 0cm;
+   justify-content: space-between;
+   border-radius: 20px;
+}
+.goloyasalam{
+   width: 35%;
+  padding: 0cm 0.8cm 0cm 0.8cm  ;
+   border-right: 2px solid #e0e0e0;
+}
+.haboba{
+   font-family: serif;
+   font-style: italic;
+   font-size: 0.45cm;
+   font-weight: 500;
+   color: #8c0731;
+   line-height: 1.4cm;
+   cursor: pointer;
+}
+.mabi{
+   height: 1px;
+   width: 100%;
+   background-color: #e0e0e0;
+   line-height: 0.8cm;
+}
+.ana{
+   width: 60%;
+   padding: 0cm 0.8cm 0cm 0.8cm;
+   display: flex;
+   flex-direction:column;
+}
+.hlali{
+   padding: 0.3cm 0.6cm 0.3cm 0.6cm;
+   color: white;
+   background-color: #8c0731;
+   border: none;
+   border-radius: 8px;
+   font-family: serif;
+   font-style: italic;
+font-size: 0.5cm;
+cursor: pointer;
+}
+.hlalii{
+   padding: 0.3cm 0.7cm 0.3cm 0.7cm;
+   color: white;
+   background-color: #8c0731;
+   border: none;
+   font-family: serif;
+   font-style: italic;
+   border-radius: 8px;
+   font-size: 0.5cm;
+   cursor: pointer;
+   
+}
+.assl{
+   color: #424242cc;
+   font-family: serif;
+   font-size: 0.4cm;
+   text-align: start;
+   margin-bottom: 0.3cm;
+}
+.omwaldi{
+   padding: 1.2cm 0.5cm 0.8cm 0.5cm;
+}
+
+.bgit{
+   display: flex;
+   width: 100%;
+justify-content: space-between;
+
+}
+.djaa{
+   margin-bottom: 0.5cm;
+   text-align: center;
+}
+.nigga{
+   width: 30%;
+   
+   
+}
+
+.mod{
+   font-family:serif;
+   color: rgba(0, 0, 0, 0.87);
+   font-size: 0.5cm;
+   margin-bottom: 0.5cm;
+   font-weight: 700;
+   text-align: center;
+}
+.fantazi{
+   background-color: inherit;
+   font-size: 0.5cm;
+   color: #8c0731;
+   padding: 0.25cm 0.6cm 0.25cm 0.6cm;
+   border: 1px solid #8c0731;
+   font-family: serif;
+   font-style: italic;
+   border-radius: 8px;
+   cursor: pointer;
+   
+}
+.thik{
+   text-align: center;
+}
+.jahl{
+   display: flex;
+   padding: 1.2cm 0.8cm 1.2cm 0.8cm ;
+   justify-content: space-between;
+}
+.wahcha{
+   width: 45%;
+} 
+.tirara{
+   display: flex;
+   justify-content: space-between;
+   margin-bottom: 0.5cm;
+}
+.pisceus{font-family: serif; font-size: 0.6cm; font-weight: 700; color: #8c0731;}
+.mspuiyi{ color: #ff7043; font-size: 0.6cm; font-weight: 700;}
+.asli{width: 70%; text-align: start; font-size: 0.34cm;line-height: 0.5cm; font-family: sans-serif; font-weight: 500; color: #757575;margin-bottom: 0.5cm;}
+.lawl{height: 1px; width: 100%; background-color :#7575759f; margin-bottom: 0.5cm;}
+.law{height: 1px; width: 100%;margin-bottom: 0.7cm; display: none;}
+
+.anakont{
+   display: flex;
+   justify-content: space-between;
+}
+.messi{width: 70%; display: flex; align-items: center;}
+.wsba3{width: 35%; border-bottom-right-radius: 20px; border-top-right-radius: 20px; }
+.papa{width: 60%; padding: 0.8cm 0.8cm 0.8cm 0.8cm;}
+.elmal{ border-bottom-left-radius: 20px; border-top-left-radius: 20px;}
+.mahrez{ width: 25%; background-color: #8c0731; color: white; border-bottom-right-radius: 20px; border-top-right-radius: 20px; display: flex; justify-content: center; align-items: center;}
+.laman{text-align: start; font-size: 0.38cm;line-height: 0.5cm; font-family: sans-serif; font-weight: 500; color: #757575;margin-bottom: 0.5cm;}
+.wino{color: #8c0731; font-size: 1cm; margin-bottom: 0.5cm;}
+.bessanta{display: flex;}
+.zawali{font-size: 0.7cm;color: white; }
+.hatem{display: flex; flex-direction: column;align-items: center;}
+
+
+
+
+.onediv{display: flex;justify-content: space-between; padding: 0.8cm 0 0.8cm 0 ;}
+
+.mindiv{width: 45%;
+display: flex;
+justify-content: space-between;
+
+}
+.photo{
+   width: 35%;
+   border-radius: 50%;
+   align-self: flex-start;
+}
+.info{width: 55%;
+   
+display: flex;
+flex-direction: column;
+
+}
+.bb{width: 15%;}
+.kk{width: 80%;}
+
+
+
+
+.flexm{
+   display: flex;
+ justify-content: space-between;
+}
+
+.paddme{
+   width: 26%;
+   padding: 0.4cm 0.4cm 0.4cm 0.4cm;
+   border-radius: 20px;
+margin-left: 0.25cm;
+}
+
+.makemegood{
+   padding: 0.3cm 0 0.3cm 0;
+   background-color: #8c0731;
+   font-family: serif;
+   font-style: italic;
+   font-size: 0.55cm;
+   border: none;
+   border-radius: 8px;
+   color: white;
+   cursor: pointer;
+   width: 100%;
+}
+
+.aliik{
+   
+   display: flex;
+   padding: 0.6cm 0.6cm 0.6cm 0.6cm;
+    justify-content: space-between;
+}
+.galbi{width: 40%;}
+.lbhr{ width:55%;}
+.mchit{font-size: 0.5cm; font-family: serif; color: white; font-weight: 700;margin-bottom: 0.3cm; }
+.wga3{font-size: 0.3cm; font-family: sans-serif; color:white; line-height: 0.4cm; margin-bottom: 0.3cm; width: 80%;}
+.rigilni{padding: 0.3cm 0.6cm 0.3cm 0.6cm; font-family: serif; font-size: 0.5cm; color: white; background-color: inherit; border:1px solid white; border-radius: 10px; cursor: pointer;}
+.rani{padding: 0 1.2cm 0 0;}
+
+
+
+#mydream{
+   display: flex;
+}
+.bts{
+   width: 7cm;
+
+}
+.iworkhardformaydeam{
+padding: 0.8cm 1.5cm 0.8cm 1.5cm;
+}
+
+@media only screen and (max-width:580px) {
+          .tit1{
+                    display: flex;
+                    flex-wrap: wrap;
+                    
+                    justify-content: center;
+                     
+          }  
+          .space{
+          margin-right:0cm;
+          margin-bottom: 0.2cm;
+                    
+          }
+          .litspace{
+                    margin-left: 0cm;
+                    align-self: center;
+                    margin-top: 0.2cm;
+          }    
+       .flexedit1{
+          align-self: center;
+       }
+       .move{align-self: center;}
+          .tabi{
+             display: flex;
+             flex-wrap: wrap;
+             justify-content: center;
+          }
+          #hsit{
+             padding: 0cm 0.3cm 0cm 0.3cm;
+          }
+          .audd{
+            flex-wrap: wrap;
+          }
+          .arbouche{
+             width: 100%;
+          }
+          .auddimg{
+             width: 100%;
+          }
+          #imgg{
+            border-top-left-radius: 20px; border-bottom-left-radius:0px; border-top-right-radius: 20px;
+          }
+          .arbouche{  padding: 0.5cm 0.3cm 0.5cm 0.3cm;}
+          #auddd{flex-wrap: wrap-reverse;}
+#imggg{border-bottom-right-radius:0px; border-top-right-radius: 20px; border-top-left-radius: 20px;}
+
+.mrati{
+   display: flex;
+   flex-wrap: wrap;
+}
+   .goloyasalam{
+      width: 100%;
+     padding: 0cm 0.5cm 0cm 0.5cm  ;
+      border-right: none;
+   }
+   .ana{
+      width: 100%;
+      padding: 0cm 0.5cm 0cm 0.5cm;
+      display: flex;
+      flex-direction:column;
+      margin-top: 0.8cm;
+
+   }
+.hbiba{
+   margin-bottom: 0.5cm;
+}
+.bgit{
+   display: flex;
+   flex-wrap: wrap;
+}
+.nigga{
+   width: 100%;
+   margin-bottom: 1cm;
+}
+.jahl{
+   display: flex;
+   flex-wrap: wrap;
+   padding: 1.2cm 0.5cm 1.2cm 0.5cm ;
+}
+.wahcha{
+   width: 100%;
+}
+.law{ display: flex;}
+
+.anakont{
+   display: flex;
+flex-wrap: wrap;
+}
+.mahrez{width: 100%; border-radius: 20px; padding: 0.8cm 0 0.8cm 0;}
+.messi{width: 100%;}
+.wsba3{display: none;}
+
+
+.onediv{
+   flex-wrap: wrap;
+}
+.mindiv{
+   width: 100%;
+   margin-bottom: 0.8cm;
+}
+.kk{width: 55%;}
+.bb{width: 35%;}
+
+
+
+.flexm{
+   flex-wrap: wrap;
+}
+.paddme{
+   width: 100%;
+margin-bottom: 0.4cm;
+}
+.aliik{
+   
+   display: flex;
+   flex-wrap: wrap;
+   padding: 0.6cm 0.6cm 0.6cm 0.5cm;
+    justify-content: space-between;
+}
+.galbi{width: 90%;margin-bottom: 0.5cm;}
+.lbhr{ width:100%;}
+.wga3{width: 80%;}
+.mai{display: flex; flex-wrap: wrap-reverse;}
+.rani{padding: 0;}
+#mydream{
+   display: flex;
+   flex-wrap: wrap;
+}
+.bts{
+   width: 100%;
+   padding: 0cm 0.5cm 0cm 0.5cm;
+   margin-top: 0.5cm;
+}
+.antlaha{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+
+}
+.iworkhardformaydeam{
+   padding: 0.8cm 0.8cm 0.8cm 0.8cm;
+   }
+
+
+}
+
+
+
+@media only screen and (max-width:455px) {
+
+     .tit{
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          
+          border-top-left-radius:40% ;
+          border-top-right-radius: 40%;
+           
+}    
+.small{
+          margin-bottom: 1cm;
+        
+
+}
+.flex{
+         width: 5cm;
+}
+
+}
